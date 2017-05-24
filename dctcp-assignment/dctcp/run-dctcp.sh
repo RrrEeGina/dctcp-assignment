@@ -88,7 +88,7 @@ for bw in $bws; do
 
 done
 
-#done
+done
 
 finish
 
